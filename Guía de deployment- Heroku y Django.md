@@ -79,7 +79,7 @@ Cómo llevar tu proyecto a producción en Heroku.com.
 	```
 	web: gunicorn <tuproyecto>.wsgi 
 	```
-	***usando el nombre de tu proyecto por supuesto donde arriba ^^ pone <tuproyecto>
+	***usando el nombre de tu proyecto por supuesto donde arriba ^^ pone `<tuproyecto>`
 
 8. En el archivo `production.py` cambiar lo siguiente: 
 
