@@ -54,6 +54,7 @@ significa que debes escribir dentro de la aplicación que mencionamos abajo. (De
 
     5. Activar el virtualenv
     ```
+    cd yourenv
     source bin/activate
     ```
     El resultado en 'Terminal' debe de ser algo parecido a:
